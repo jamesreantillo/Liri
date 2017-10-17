@@ -1,0 +1,25 @@
+{
+  "name": "james",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesreantillo/Liri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesreantillo/Liri/issues"
+  },
+  "homepage": "https://github.com/jamesreantillo/Liri#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "node-twitter-api": "^1.8.0",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
